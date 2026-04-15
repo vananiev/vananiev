@@ -1,13 +1,14 @@
-# Виталий Ананьев
+# Vitalii Ananiev
 
-⚡ Многопоточность, алгоритмы, высоконагруженные системы
+⚡ Concurrency, algorithms, high‑load systems
 
 ---
 
-### ✨ О себе
+### ✨ About me
 
-Привлекают высоконагруженные решения, требующие высокой точности и безошибочности, сфера финансов и рынков, медицины, 
-биологии, глобальные задачи на переднем крае науки, альтернативная энергетика, космическая промышленность.
+I'm passionate about high‑load systems where precision and fault tolerance are critical.
+My interests span finance, trading, medicine, biology, global challenges at the cutting edge of science,
+alternative energy, and aerospace.
 
 [![Investbook - учёт инвестиций](https://img.shields.io/badge/_-Investbook-3BAED9?style=flat-square&logo=github)](https://github.com/spacious-team/investbook)
 [![Spring Framework - контрибьюции](https://img.shields.io/badge/_-Spring_Framework-FF77CC?style=flat-square&logo=spring&logoColor=white)](https://github.com/spring-projects/spring-framework)
@@ -17,7 +18,7 @@
 
 ---
 
-### 🛠️ Технологический стек
+### 🛠️ Tech stack
 
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-4CC966?style=flat-square&logo=springboot&logoColor=white)
 ![Spring Cloud](https://img.shields.io/badge/Spring%20Cloud-4CC966?style=flat-square&logo=spring&logoColor=white)
@@ -40,30 +41,28 @@
 
 ---
 
-### 🎓 Образование
+### 🎓 Education
 
-**Нижегородский государственный технический университет им. Р.Е. Алексеева**,  `2007 — 2017`
+**Nizhny Novgorod State Technical University named after R.E. Alekseev**, `2007 - 2017`
 
-**Кандидат технических наук**
+**PhD in Technical Sciences**
 
-28 публикаций, включая международные издания, автор патентов и книги.
-Лучшие результаты на олимпиадах, в том числе: 
-- Профильная университетская олимпиада (1 место).
-- Топ-4 (Программирование), Топ-10 (Математика), Топ-20 (Физика) - региональный уровень.
-- Призер олимпиад по биологии и химии.
-
----
-
-### 🧗 Карьера
-
-**Team Lead @ Backend development**, `2015  -  present`
-
-**Team Lead @ DevOps**,  `2011 - 2019`
+28 publications, including international journals. Author of patents and a book.
+Top performer in olympiads, including: 
+- 1st place - University-wide professional olympiad.
+- Top 4 (Programming), Top 10 (Mathematics), Top 20 (Physics) - Regional level.
+- Prize winner - Biology and Chemistry.
 
 ---
 
-### 🕊️ Контакты
+### 🧗 Experience
+
+**Team Lead, Backend development**, `2015 - present`
+
+**DevOps Lead**,                    `2011 - 2019`
+
+---
+
+### 🕊️ Contacts
 
 ✉️ [post2ananiev@gmail.com](mailto:post2ananiev@gmail.com)
-
----
