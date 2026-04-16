@@ -47,7 +47,7 @@ alternative energy, and aerospace.
 
 **PhD in Technical Sciences**
 
-28 publications, including international journals. Author of patents and a book.
+32 publications, including international journals. Author of patents and a book.
 Top performer in olympiads, including: 
 - 1st place - University-wide professional olympiad.
 - Top 4 (Programming), Top 10 (Mathematics), Top 20 (Physics) - Regional level.
@@ -65,4 +65,6 @@ Top performer in olympiads, including:
 
 ### 🕊️ Contacts
 
-✉️ [post2ananiev@gmail.com](mailto:post2ananiev@gmail.com)
+✉️ [post2ananiev@gmail.com](mailto:post2ananiev@gmail.com)  
+🧑‍🤝‍🧑 [LinkedIn](https://www.linkedin.com/in/vitalii-ananiev)  
+📚 [Elibrary](https://www.elibrary.ru/author_items.asp?authorid=799382)  
