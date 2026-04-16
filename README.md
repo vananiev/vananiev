@@ -32,11 +32,11 @@ alternative energy, and aerospace.
 ![ClickHouse](https://img.shields.io/badge/ClickHouse-ffcc01?style=flat-square&logo=clickhouse&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-3BAED9?style=flat-square&logo=postgresql&logoColor=white)
 ![Flyway](https://img.shields.io/badge/Flyway-3BAED9?style=flat-square&logo=flyway&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-3BAED9?style=flat-square&logo=docker&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-FF69B4?style=flat-square&logo=docker&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-F46800?style=flat-square&logo=prometheus&logoColor=white)
 ![Spring Observability](https://img.shields.io/badge/Spring%20Observability-4CC966?style=flat-square&logo=spring&logoColor=white)
-![Zipkin](https://img.shields.io/badge/Zipkin-FF69B4?style=flat-square&logo=zipkin&logoColor=white)
+![Zipkin](https://img.shields.io/badge/Zipkin-F46800?style=flat-square&logo=zipkin&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-ffcc01?style=flat-square&logo=linux&logoColor=black)
 
 ---
@@ -47,7 +47,7 @@ alternative energy, and aerospace.
 
 **PhD in Technical Sciences**
 
-32 publications, including international journals. Author of patents and a book.
+32 publications [📚](https://www.elibrary.ru/author_items.asp?authorid=799382), including international journals. Author of patents and a book. 
 Top performer in olympiads, including: 
 - 1st place - University-wide professional olympiad.
 - Top 4 (Programming), Top 10 (Mathematics), Top 20 (Physics) - Regional level.
@@ -66,5 +66,4 @@ Top performer in olympiads, including:
 ### 🕊️ Contacts
 
 ✉️ [post2ananiev@gmail.com](mailto:post2ananiev@gmail.com)  
-🧑‍🤝‍🧑 [LinkedIn](https://www.linkedin.com/in/vitalii-ananiev)  
-📚 [Elibrary](https://www.elibrary.ru/author_items.asp?authorid=799382)  
+🧑‍🤝‍🧑 [LinkedIn](https://www.linkedin.com/in/vitalii-ananiev)
